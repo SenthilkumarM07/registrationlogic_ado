@@ -1,0 +1,12 @@
+c:\users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\bin\Debug\registration_logic.exe.config
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\bin\Debug\registration_logic.exe
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\bin\Debug\registration_logic.pdb
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.csprojResolveAssemblyReference.cache
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.Admin.resources
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.login.resources
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.Properties.Resources.resources
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.csproj.GenerateResource.Cache
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.exe
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.pdb
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.Register.resources
+C:\Users\welcome\documents\visual studio 2012\Projects\registration_logic\registration_logic\obj\Debug\registration_logic.userlogin.resources
